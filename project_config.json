@@ -1,0 +1,22 @@
+{
+  "num_classes": 3,
+  "train_root_dir": "C:\\Users\\hp\\Desktop\\code\\WorkingDataset\\train",
+  "test_root_dir": "C:\\Users\\hp\\Desktop\\code\\WorkingDataset\\test",
+  "mean_std_root_dir": "SavedMeanStd",
+  "saved_train_mean_std_filename": "saved_train_mean_std",
+  "saved_test_mean_std_filename": "saved_test_mean_std",
+  "saved_model_root_dir": "SavedModel",
+  "saved_results_root_dir": "SavedModelResults",
+  "saved_features_root_dir": "SavedFeatures",
+  "saved_model_filename": "saved_model_checkpoint",
+  "saved_results_filename": "saved_results",
+  "train_features_filename": "train_features",
+  "val_features_filename": "val_features",
+  "test_features_filename": "test_features",
+  "train_labels_filename": "train_labels",
+  "val_labels_filename": "val_labels",
+  "test_labels_filename": "test_labels",
+  "batch_size": 64,
+  "num_epochs": 200,
+  "learning_rate": 0.001
+}
